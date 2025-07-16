@@ -1,5 +1,6 @@
 # CODSOFT-TASK-4
 **SMS SPAM DETECTION** 
+
 This project focuses on detecting spam messages in SMS text using supervised machine learning techniques. It takes a labeled dataset of SMS messages and trains classification models to distinguish between spam and ham (not spam).
 **About Dataset**
 The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam.
