@@ -48,7 +48,7 @@ SVM accuracy:0.974
 
 **Contributors**
 
-<u>Thalluru LakshmiPrasanna</u>
+### Thalluru LakshmiPrasanna
 
 **Future Scope**
 
