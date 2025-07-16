@@ -1,19 +1,19 @@
 # CODSOFT-TASK-4
-**SMS SPAM DETECTION** 
+### SMS SPAM DETECTION
 
 This project focuses on detecting spam messages in SMS text using supervised machine learning techniques. It takes a labeled dataset of SMS messages and trains classification models to distinguish between spam and ham (not spam).
 
-**About Dataset**
+### About Dataset
 
 The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam.
 
-**Usage**
+### Usage
 
 1. Automatically detects if an SMS message is spam or not using machine learning.
 2. Can be used in mobile apps or messaging platforms to filter unwanted spam messages.
 3. Useful for learning and practicing machine learning, especially text classification.
    
-**Preprocessing Text Using TF-IDF**
+### Preprocessing Text Using TF-IDF
 
 1.TF = Term Frequency → how often a word appears in a message
 2.IDF = Inverse Document Frequency → how rare the word is across all messages
@@ -24,7 +24,7 @@ TF-IDF converts the text messages into numbers while also:
 1.Giving importance to spammy words (like "free", "win", "offer")
 2.Ignoring common, useless words (like "the", "at", "is")
 
- **Model Training**
+ ### Model Training
  
    Three models are used:
    1.Naive Bayes
@@ -37,7 +37,7 @@ Each model was evaluated on four metrics:
  3.Recall (Macro Average)
  4.F1-Score (Macro Average)
  
-**Accuracy**
+### Accuracy
 
 Accuracy of all three models
 Naive bayes accuracy:0.975
@@ -46,11 +46,11 @@ SVM accuracy:0.974
 
 **BEST MODEL OF SMS SPAM DETECTION PROJECT: NAIVE BAYES MODEL**
 
-**Contributors**
+### Contributors
 
-### Thalluru LakshmiPrasanna
+Thalluru LakshmiPrasanna
 
-**Future Scope**
+### Future Scope
 
 1.Use Deep Learning models like LSTM or BERT for better spam detection accuracy.
 2.Extend it to emails, social media, or chat apps (WhatsApp, Telegram, etc.).
