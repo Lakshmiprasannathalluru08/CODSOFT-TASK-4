@@ -48,17 +48,15 @@ SVM accuracy:0.974
 
 **Contributors**
 
-Thalluru LakshmiPrasanna
+<u>Thalluru LakshmiPrasanna</u>
 
 **Future Scope**
 
 1.Use Deep Learning models like LSTM or BERT for better spam detection accuracy.
-
 2.Extend it to emails, social media, or chat apps (WhatsApp, Telegram, etc.).
-
-3. Add support for multiple languages (e.g., Hindi, Telugu, etc.) for global use.
-
+3.Add support for multiple languages (e.g., Hindi, Telugu, etc.) for global use.
 4.Implement real-time spam detection in mobile or web applications.
-
 5.Combine with phishing or malware detection for enhanced security.
+
+
      
